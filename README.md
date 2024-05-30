@@ -1,7 +1,7 @@
 # Calculator site
 
 ```
-hi
+
 ```
 
 > [!IMPORTANT]
