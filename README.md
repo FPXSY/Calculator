@@ -6,4 +6,4 @@
 > https://fpxsy.github.io/Calculator/
 >  ```
 
-**בבקשה רעיונות לשפר + בעיות לירשון ב```https://github.com/FPXSY/Calculator/issues``` **
+**בבקשה רעיונות לשפר + בעיות לירשון ב```https://github.com/FPXSY/Calculator/issues```**
