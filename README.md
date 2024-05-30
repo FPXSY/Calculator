@@ -3,6 +3,6 @@
 > [!IMPORTANT]
 > site link:
 > ```
-> [http](https://fpxsy.github.io/Calculator/)
+> httphttps://fpxsy.github.io/Calculator/
 >  ```
 
