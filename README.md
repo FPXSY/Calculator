@@ -1,10 +1,8 @@
 # Calculator site
 
-```
-
-```
-
 > [!IMPORTANT]
-> site link: ```http
+> site link:
+> ```
+> [http](https://fpxsy.github.io/Calculator/)
 >  ```
 
